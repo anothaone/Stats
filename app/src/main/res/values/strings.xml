@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stats Royale</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="average_elixir">Average Elixir Cost:</string>
+    <string name="deckString">deck
+
+    </string>
+
+    <string-array name="sort_array">
+        <item>Elixir</item>
+        <item>Rarity</item>
+        <item>Name</item>
+        <item>Type</item>
+    </string-array>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+</resources>
